@@ -133,7 +133,7 @@ export default function App() {
           </section>
 
           <section className="space-y-3">
-            <h2 className="text-xs font-bold text-slate-400 uppercase tracking-widest">Scoring Rules</h2>
+            <h2 className="text-xs font-bold text-slate-400 uppercase tracking-widest leading-tight">Scoring Criteria (2% * 5 assignments = 10%)</h2>
             <div className="bg-slate-50 rounded-lg p-4 space-y-2 border border-slate-100">
               <div className="flex justify-between text-xs">
                 <span className="font-medium text-slate-500">90% - 100%</span>
