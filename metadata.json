@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge Score Transformer",
+  "description": "Convert Cambridge assignment percentages into final scores for local grading systems using AI-powered PDF/text parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
