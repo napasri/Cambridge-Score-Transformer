@@ -114,7 +114,7 @@ export default function App() {
       <nav className="h-16 bg-indigo-700 text-white flex items-center justify-between px-8 shrink-0 shadow-md z-10">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-white/20 rounded-sm flex items-center justify-center font-bold text-xl italic text-white">C</div>
-          <h1 className="text-lg font-bold tracking-tight uppercase">Cambridge Grade Summarizer</h1>
+          <h1 className="text-lg font-bold tracking-tight uppercase">Cambridge Score Transformer</h1>
         </div>
         <div className="flex items-center gap-6">
           <span className="text-xs bg-white/10 px-2 py-1 rounded border border-white/20">University Portal</span>
@@ -193,7 +193,7 @@ export default function App() {
                 </div>
                 <div className="max-w-md space-y-2">
                   <h2 className="text-3xl font-black text-slate-900 tracking-tight">Ready to begin?</h2>
-                  <p className="text-slate-500 font-medium">Upload your Cambridge assignment reports or paste text to generate the score summaries.</p>
+                  <p className="text-slate-500 font-medium">Upload your Cambridge assignment reports to generate the score summaries.</p>
                 </div>
                 {error && (
                   <div className="p-4 bg-red-50 border border-red-200 rounded-xl text-red-700 text-sm flex items-center gap-3">
